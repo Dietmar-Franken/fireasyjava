@@ -23,6 +23,7 @@ android:
 jdk: oraclejdk8
 os:
   - linux
+script: cd fireeasyjavaandroid && ./gradlew test
 # language: android
 # jdk: oraclejdk8
 # android:
