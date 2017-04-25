@@ -10,5 +10,5 @@ components:
 # The SDK version used to compile your project
 - android-17
 
-script: cd fireasyjavaandroid && gradle build connectedCheck
+script: cd fireeasyjavaandroid && gradle build connectedCheck
 # Additional components
