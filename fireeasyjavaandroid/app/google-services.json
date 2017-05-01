@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109937885645",
+    "firebase_url": "https://fireeasyjavaandroid.firebaseio.com",
+    "project_id": "fireeasyjavaandroid",
+    "storage_bucket": "fireeasyjavaandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109937885645:android:770662a560ddf22e",
+        "android_client_info": {
+          "package_name": "com.rocks.towtie.fireeasyjavaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109937885645-nu5fue4t4agogu2uak7njg2aeq5o5duv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rocks.towtie.fireeasyjavaandroid",
+            "certificate_hash": "1e1d5f0dca6f27c64d49f11e13e68d10895697d9"
+          }
+        },
+        {
+          "client_id": "109937885645-9kpd9n82srbq44plosu1kmguv5h40nuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8ExwtLsZWeoTwyC4X-JKN5_L3IDApmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109937885645-9kpd9n82srbq44plosu1kmguv5h40nuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
